@@ -4,4 +4,4 @@ Financial Services Commission of Ontario publishes their approved Ontario automo
 
 https://www.fsco.gov.on.ca/en/auto/rates/pages/default.aspx
 
-This Python script scrapes all rate increases from 2008 to 2018.
+This Python script collects all rate increases from 2008 to 2018 for each company listed, and writes to csv file.
